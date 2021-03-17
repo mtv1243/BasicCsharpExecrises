@@ -1,0 +1,7 @@
+C:\Users\mtv12\Desktop\GA_JS_Class\Scott_Basic_C_Sharp_Exercises\Scott_Basic_C_Sharp_Exercises\bin\Debug\Scott_Basic_C_Sharp_Exercises.exe.config
+C:\Users\mtv12\Desktop\GA_JS_Class\Scott_Basic_C_Sharp_Exercises\Scott_Basic_C_Sharp_Exercises\bin\Debug\Scott_Basic_C_Sharp_Exercises.exe
+C:\Users\mtv12\Desktop\GA_JS_Class\Scott_Basic_C_Sharp_Exercises\Scott_Basic_C_Sharp_Exercises\bin\Debug\Scott_Basic_C_Sharp_Exercises.pdb
+C:\Users\mtv12\Desktop\GA_JS_Class\Scott_Basic_C_Sharp_Exercises\Scott_Basic_C_Sharp_Exercises\obj\Debug\Scott_Basic_C_Sharp_Exercises.csprojAssemblyReference.cache
+C:\Users\mtv12\Desktop\GA_JS_Class\Scott_Basic_C_Sharp_Exercises\Scott_Basic_C_Sharp_Exercises\obj\Debug\Scott_Basic_C_Sharp_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\mtv12\Desktop\GA_JS_Class\Scott_Basic_C_Sharp_Exercises\Scott_Basic_C_Sharp_Exercises\obj\Debug\Scott_Basic_C_Sharp_Exercises.exe
+C:\Users\mtv12\Desktop\GA_JS_Class\Scott_Basic_C_Sharp_Exercises\Scott_Basic_C_Sharp_Exercises\obj\Debug\Scott_Basic_C_Sharp_Exercises.pdb
